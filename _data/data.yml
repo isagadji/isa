@@ -32,8 +32,8 @@ sidebar:
         level: Intermed
 
     interests:
-      - item: Coding
-        link:
+#      - item: Coding
+#        link:
 
 career-profile:
     title: PHP/Python Developer
