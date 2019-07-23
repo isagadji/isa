@@ -72,10 +72,10 @@ experiences:
       time: 2013 - 2017
       company: Beeline/Vimpelcom, Russia/Makhachkala
       details: |
-        * Development Accident monitoring system on GSM network. In company Beeline (VimpelCom).
-        * Development of reconciliation system (consistency check) Network elements (2G/3G controllers and Base Stations, MSC commutators).
+        - Development Accident monitoring system on GSM network. In company Beeline (VimpelCom).
+        - Development of reconciliation system (consistency check) Network elements (2G/3G controllers and Base Stations, MSC commutators).
 
-          Stack: PHP, MySQL, MVC, Bash/Shell, Expect, Bootstrap.
+        Stack: PHP, MySQL, MVC, Bash/Shell, Expect, Bootstrap.
 
 skills:
     title: Skills &amp; Proficiency
