@@ -1,138 +1,60 @@
-# Hello README.md
+<a href="https://jekyll-themes.com">
+<img src="https://img.shields.io/badge/featured%20on-JT-red.svg" height="20" alt="Jekyll Themes Shield" >
+</a>
 
+# Orbit
+> This theme is designed by Xiaoying Riley at [3rd Wave Media](http://themes.3rdwavemedia.com/). 
+> Visit her [website](http://themes.3rdwavemedia.com/) for more themes.
 
-https://developer.github.com/v3/repos/#list-organization-repositories
+I have made this into a Jekyll Theme. Checkout the live demo [here](https://webjeda.com/online-cv/).
 
+<table>
+  <tr>
+    <th>Desktop</th>
+    <th>Mobile</th>
+  </tr>
+  <tr>
+    <td>
+        <img src="https://webjeda.com/online-cv/assets/images/desktop.png?raw=true" width="600"/>
+    </td>
+    <td>
+        <img src="https://webjeda.com/online-cv/assets/images/mobile.png?raw=true" width="250"/>
+    </td>
+  </tr>
+</table>
 
-#### in `site.github.*`
-```json
-{
-    "versions": {
-        "jekyll": <version>,
-        "kramdown": <version>,
-        "liquid": <version>,
-        "maruku": <version>,
-        "rdiscount": <version>,
-        "redcarpet": <version>,
-        "RedCloth": <version>,
-        "jemoji": <version>,
-        "jekyll-mentions": <version>,
-        "jekyll-redirect-from": <version>,
-        "jekyll-sitemap": <version>,
-        "github-pages": <version>,
-        "ruby": <version>"
-    },
-    "hostname": "github.com",
-    "pages_hostname": "github.io",
-    "api_url": "https://api.github.com",
-    "help_url": "https://help.github.com",
-    "environment": "dotcom",
-    "pages_env": "dotcom",
-    "public_repositories": [
-                             {
-                               "id": 1296269,
-                               "node_id": "MDEwOlJlcG9zaXRvcnkxMjk2MjY5",
-                               "name": "Hello-World",
-                               "full_name": "octocat/Hello-World",
-                               "owner": {
-                                 "login": "octocat",
-                                 "id": 1,
-                                 "node_id": "MDQ6VXNlcjE=",
-                                 "avatar_url": "https://github.com/images/error/octocat_happy.gif",
-                                 "gravatar_id": "",
-                                 "url": "https://api.github.com/users/octocat",
-                                 "html_url": "https://github.com/octocat",
-                                 "followers_url": "https://api.github.com/users/octocat/followers",
-                                 "following_url": "https://api.github.com/users/octocat/following{/other_user}",
-                                 "gists_url": "https://api.github.com/users/octocat/gists{/gist_id}",
-                                 "starred_url": "https://api.github.com/users/octocat/starred{/owner}{/repo}",
-                                 "subscriptions_url": "https://api.github.com/users/octocat/subscriptions",
-                                 "organizations_url": "https://api.github.com/users/octocat/orgs",
-                                 "repos_url": "https://api.github.com/users/octocat/repos",
-                                 "events_url": "https://api.github.com/users/octocat/events{/privacy}",
-                                 "received_events_url": "https://api.github.com/users/octocat/received_events",
-                                 "type": "User",
-                                 "site_admin": false
-                               },
-                               "private": false,
-                               "html_url": "https://github.com/octocat/Hello-World",
-                               "description": "This your first repo!",
-                               "fork": false,
-                               "url": "https://api.github.com/repos/octocat/Hello-World",
-                               "archive_url": "http://api.github.com/repos/octocat/Hello-World/{archive_format}{/ref}",
-                               "assignees_url": "http://api.github.com/repos/octocat/Hello-World/assignees{/user}",
-                               "blobs_url": "http://api.github.com/repos/octocat/Hello-World/git/blobs{/sha}",
-                               "branches_url": "http://api.github.com/repos/octocat/Hello-World/branches{/branch}",
-                               "collaborators_url": "http://api.github.com/repos/octocat/Hello-World/collaborators{/collaborator}",
-                               "comments_url": "http://api.github.com/repos/octocat/Hello-World/comments{/number}",
-                               "commits_url": "http://api.github.com/repos/octocat/Hello-World/commits{/sha}",
-                               "compare_url": "http://api.github.com/repos/octocat/Hello-World/compare/{base}...{head}",
-                               "contents_url": "http://api.github.com/repos/octocat/Hello-World/contents/{+path}",
-                               "contributors_url": "http://api.github.com/repos/octocat/Hello-World/contributors",
-                               "deployments_url": "http://api.github.com/repos/octocat/Hello-World/deployments",
-                               "downloads_url": "http://api.github.com/repos/octocat/Hello-World/downloads",
-                               "events_url": "http://api.github.com/repos/octocat/Hello-World/events",
-                               "forks_url": "http://api.github.com/repos/octocat/Hello-World/forks",
-                               "git_commits_url": "http://api.github.com/repos/octocat/Hello-World/git/commits{/sha}",
-                               "git_refs_url": "http://api.github.com/repos/octocat/Hello-World/git/refs{/sha}",
-                               "git_tags_url": "http://api.github.com/repos/octocat/Hello-World/git/tags{/sha}",
-                               "git_url": "git:github.com/octocat/Hello-World.git",
-                               "issue_comment_url": "http://api.github.com/repos/octocat/Hello-World/issues/comments{/number}",
-                               "issue_events_url": "http://api.github.com/repos/octocat/Hello-World/issues/events{/number}",
-                               "issues_url": "http://api.github.com/repos/octocat/Hello-World/issues{/number}",
-                               "keys_url": "http://api.github.com/repos/octocat/Hello-World/keys{/key_id}",
-                               "labels_url": "http://api.github.com/repos/octocat/Hello-World/labels{/name}",
-                               "languages_url": "http://api.github.com/repos/octocat/Hello-World/languages",
-                               "merges_url": "http://api.github.com/repos/octocat/Hello-World/merges",
-                               "milestones_url": "http://api.github.com/repos/octocat/Hello-World/milestones{/number}",
-                               "notifications_url": "http://api.github.com/repos/octocat/Hello-World/notifications{?since,all,participating}",
-                               "pulls_url": "http://api.github.com/repos/octocat/Hello-World/pulls{/number}",
-                               "releases_url": "http://api.github.com/repos/octocat/Hello-World/releases{/id}",
-                               "ssh_url": "git@github.com:octocat/Hello-World.git",
-                               "stargazers_url": "http://api.github.com/repos/octocat/Hello-World/stargazers",
-                               "statuses_url": "http://api.github.com/repos/octocat/Hello-World/statuses/{sha}",
-                               "subscribers_url": "http://api.github.com/repos/octocat/Hello-World/subscribers",
-                               "subscription_url": "http://api.github.com/repos/octocat/Hello-World/subscription",
-                               "tags_url": "http://api.github.com/repos/octocat/Hello-World/tags",
-                               "teams_url": "http://api.github.com/repos/octocat/Hello-World/teams",
-                               "trees_url": "http://api.github.com/repos/octocat/Hello-World/git/trees{/sha}"
-                             }
-                           ],
-    "organization_members": [ User Objects ],
-    "build_revision": "cbd866ebf142088896cbe71422b949de7f864bce",
-    "project_title": "metadata-example",
-    "project_tagline": "A GitHub Pages site to showcase repository metadata",
-    "owner_name": "github",
-    "owner_url": "https://github.com/github",
-    "owner_gravatar_url": "https://github.com/github.png",
-    "repository_url": "https://github.com/github/metadata-example",
-    "repository_nwo": "github/metadata-example",
-    "repository_name": "metadata-example",
-    "zip_url": "https://github.com/github/metadata-example/zipball/gh-pages",
-    "tar_url": "https://github.com/github/metadata-example/tarball/gh-pages",
-    "clone_url": "https://github.com/github/metadata-example.git",
-    "releases_url": "https://github.com/github/metadata-example/releases",
-    "issues_url": "https://github.com/github/metadata-example/issues",
-    "wiki_url": "https://github.com/github/metadata-example/wiki",
-    "language": null,
-    "is_user_page": false,
-    "is_project_page": true,
-    "show_downloads": true,
-    "url": "http://username.github.io/metadata-example", // (or the CNAME)
-    "baseurl": "/metadata-example",
-    "contributors": [ User Objects ],
-    "releases": [ Release Objects ],
-    "latest_release": [ Release Object ],
-    "private": false,
-    "license": {
-      "key": "mit",
-      "name": "MIT License",
-      "spdx_id": "MIT",
-      "url": "https://api.github.com/licenses/mit"
-    },
-    "source": {
-      "branch": "gh-pages",
-      "path": "/"
-    }
-}
-```
+## Installation
+
+* [Fork](https://github.com/sharu725/online-cv/fork) the repository
+* Delete the `gh-pages` branch
+* Re-create the `gh-pages` branch
+* Go to settings and set Github Pages source as master.
+* Your new site should be ready at `https://username.github.io/online-cv/`
+
+Change all the details from one place: ``_data/data.yml``
+
+Watch my [video](https://www.youtube.com/embed/T2nx6tj-ZH4) on installation.
+
+## Skins
+
+There are 6 color schemes available:
+
+| Blue | Turquoise | Green |
+|---------|---------|---------|
+| <img src="https://webjeda.com/online-cv/assets/images/blue.jpg" width="300"/> | <img src="https://webjeda.com/online-cv/assets/images/turquoise.jpg" width="300"/> | <img src="https://webjeda.com/online-cv/assets/images/green.jpg" width="300"/> |
+
+| Berry | Orange | Ceramic |
+|---------|---------|---------|
+| <img src="https://webjeda.com/online-cv/assets/images/berry.jpg" width="300"/> | <img src="https://webjeda.com/online-cv/assets/images/orange.jpg" width="300"/> | <img src="https://webjeda.com/online-cv/assets/images/ceramic.jpg" width="300"/> |
+
+## Credits
+
+Thanks to [Nelson Estevão](https://github.com/nelsonmestevao) for all the [contributions](https://github.com/sharu725/online-cv/commits?author=nelsonmestevao).
+
+Thanks to [t-h-e(sfrost)](https://github.com/t-h-e) for all the [contributions](https://github.com/sharu725/online-cv/commits?author=t-h-e).
+
+Check out for more themes: [**Jekyll Themes**](http://jekyll-themes.com).
+
+## License
+
+This project is licensed under the [MIT license](LICENSE.txt).

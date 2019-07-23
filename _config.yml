@@ -4,9 +4,17 @@ show_downloads: false
 google_analytics: UA-144336853-1
 github_profile: https://github.com/isagadji
 
-#theme: jekyll-theme-cayman
-#theme: jekyll-theme-minimal
-theme: jekyll-theme-modernist
+theme_skin: blue
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
-#theme: isagadji/online-cv
+# Build settings
+compress-site: yes
 
+encoding: "utf-8"
+compress_html: # - http://jch.penibelst.de/
+  clippings: all
+  ignore:
+    envs: development
