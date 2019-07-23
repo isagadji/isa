@@ -5,4 +5,4 @@
 * [{{ repository.full_name }}]({{ repository.html_url }})
 {% endfor %}
 
-{{ dump(site.github.public_repositories) }}
+{{ site.github.contributors }}
