@@ -64,7 +64,7 @@ experiences:
       time: 2017 - 2018
       company: Nokia Solutions & Networks (NSN), Russia/Makhachkala
       details: |
-        Development of KPI analysis systems. Automation of data export from various KPI systems.
+        * Development of KPI analysis systems. Automation of data export from various KPI systems.
 
           Stack: Python, Oracle DB, Pandas.
 
@@ -72,8 +72,8 @@ experiences:
       time: 2013 - 2017
       company: Beeline/Vimpelcom, Russia/Makhachkala
       details: |
-        - Development Accident monitoring system on GSM network. In company Beeline (VimpelCom).
-        - Development of reconciliation system (consistency check) Network elements (2G/3G controllers and Base Stations, MSC commutators).
+        * Development Accident monitoring system on GSM network. In company Beeline (VimpelCom).
+        * Development of reconciliation system (consistency check) Network elements (2G/3G controllers and Base Stations, MSC commutators).
 
           Stack: PHP, MySQL, MVC, Bash/Shell, Expect, Bootstrap.
 
@@ -81,6 +81,9 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
+      - name: Linux
+        level: 80%
+
       - name: PHP
         level: 80%
 
@@ -90,8 +93,6 @@ skills:
       - name: Javascript & jQuery
         level: 50%
 
-      - name: Linux
-        level: 80%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
