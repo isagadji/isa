@@ -3,5 +3,5 @@ description: PHP/Python Developer
 show_downloads: false
 name: isagadji.github.io
 google_analytics: UA-144336853-1
-#theme: jekyll-theme-minimal
-theme: jekyll-theme-modernist
+theme: jekyll-theme-minimal
+#theme: jekyll-theme-modernist
