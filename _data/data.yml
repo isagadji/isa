@@ -88,14 +88,14 @@ skills:
       - name: Yii2
         level: 60%
 
-      - name: Mysql
+      - name: MySQL
         level: 90%
 
       - name: Python
         level: 50%
 
       - name: Javascript & jQuery
-        level: 50%
+        level: 45%
 
 
 footer: >
