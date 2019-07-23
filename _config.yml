@@ -4,7 +4,8 @@ show_downloads: false
 google_analytics: UA-144336853-1
 github_profile: https://github.com/isagadji
 
-theme_skin: blue
+theme_skin: ceramic
+#theme_skin: blue
 # Sass/SCSS
 sass:
   sass_dir: _sass
