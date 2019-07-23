@@ -55,64 +55,43 @@ experiences:
       time: 2018 - Present
       company: Nokia Solutions & Networks (NSN), Russia/Voronezh
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        * Automation configuration processes of network equipment and mobile network base stations, generating a configuration from source data. Profit: preparation time decrease >20 times (Before: preparation for the task takes several hours. Now 5-10 minutes).
+        * Development of troubleshooting • automation system.
 
-          - Bullet point
-          - Bullet point
+          Stack: Linux, PHP, Yii2, Python, Bash, Expect etc.
 
     - role: Software Engineer
       time: 2017 - 2018
       company: Nokia Solutions & Networks (NSN), Russia/Makhachkala
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Development of KPI analysis systems. Automation of data export from various KPI systems.
 
-          - Bullet point
-          - Bullet point
+          Stack: Python, Oracle DB, Pandas.
 
     - role: Senior Engineer
       time: 2013 - 2017
       company: Beeline/Vimpelcom, Russia/Makhachkala
       details: |
         - Development Accident monitoring system on GSM network. In company Beeline (VimpelCom).
-        - Development of reconciliation system (consistency check) Network elements (2G/3G controllers and Base
-          Stations, MSC commutators).
+        - Development of reconciliation system (consistency check) Network elements (2G/3G controllers and Base Stations, MSC commutators).
 
-        Stack: Linux, PHP, MySQL, MVC, Bash/Shell, Expect, Bootstrap.
-
+          Stack: PHP, MySQL, MVC, Bash/Shell, Expect, Bootstrap.
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: PHP
+        level: 80%
+
+      - name: Python
+        level: 50%
 
       - name: Javascript & jQuery
-        level: 98%
+        level: 50%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Linux
+        level: 80%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
