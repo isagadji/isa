@@ -38,10 +38,8 @@ sidebar:
 career-profile:
     title: PHP/Python Developer
     summary: |
-      I'm Software Engineer with proficiency in PHP, Python, Linux, AWS, LAMP, MySQL, Yii2, Networking and more.. Little experience of
-      development mobile apps using Objective-C, Swift and Cordova. I have more than 10 years experience on IT.
-
-      Second paragraph if required.
+      I'm Software Engineer with proficiency in PHP, Python, Linux, LAMP, MySQL, Yii2, Networking and more..
+      Little experience of development mobile apps using Objective-C, Swift and Cordova. I have more than 10 years experience on IT.
 
 education:
     - degree: BSc in Computer Science
@@ -86,6 +84,12 @@ skills:
 
       - name: PHP
         level: 80%
+
+      - name: Yii2
+        level: 60%
+
+      - name: Mysql
+        level: 90%
 
       - name: Python
         level: 50%
