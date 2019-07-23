@@ -5,5 +5,3 @@
 * [{{ repository.full_name }}]({{ repository.html_url }})
 {% endfor %}
 
-## test
-{{ site.github.stats.contributors }}
