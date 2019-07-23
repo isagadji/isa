@@ -6,6 +6,6 @@ github_profile: https://github.com/isagadji
 
 #theme: jekyll-theme-cayman
 #theme: jekyll-theme-minimal
-#theme: jekyll-theme-modernist
-theme: isagadji/online-cv
+theme: jekyll-theme-modernist
+#theme: isagadji/online-cv
 
