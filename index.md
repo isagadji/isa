@@ -6,4 +6,4 @@
 {% endfor %}
 
 ## test
-{{ site.github.contributors }}
+{{ site.github.stats.contributors }}
