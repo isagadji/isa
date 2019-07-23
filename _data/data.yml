@@ -12,7 +12,7 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: isagadji@gmail.com
+    email: # isagadji@gmail.com
     phone:
     website: isagadji.github.io #do not add http://
     linkedin: isagadji
