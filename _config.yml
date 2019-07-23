@@ -4,4 +4,4 @@ show_downloads: false
 google_analytics: UA-144336853-1
 #theme: jekyll-theme-cayman
 #theme: jekyll-theme-minimal
-#theme: jekyll-theme-modernist
+theme: jekyll-theme-modernist
