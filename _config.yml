@@ -2,7 +2,10 @@ title: Isa Nazhmudinov
 description: PHP/Python Developer
 show_downloads: false
 google_analytics: UA-144336853-1
+github_profile: https://github.com/isagadji
+
 #theme: jekyll-theme-cayman
 #theme: jekyll-theme-minimal
 theme: jekyll-theme-modernist
-github_profile: https://github.com/isagadji
+#remote_theme: owner/name
+
