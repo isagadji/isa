@@ -20,7 +20,8 @@ sidebar:
     gitlab:
     bitbucket:
     twitter: # '@isagadji'
-    stack-overflow: # 5726282/isagadji # Number/Username, e.g. 123456/alandoe
+    stack-overflow: 5726282/isagadji # Number/Username, e.g. 123456/alandoe
+    stack-overflow_name: isagadji
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
