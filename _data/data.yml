@@ -75,13 +75,13 @@ experiences:
         * Development of troubleshooting • automation system.
 
       stack:
-        -Linux
-        -PHP
-        -Yii2
-        -Python
-        -Bash
-        -Expect
-        -etc
+        - Linux
+        - PHP
+        - Yii2
+        - Python
+        - Bash
+        - Expect
+        - etc
 
     - role: Software Engineer
       time: 2017 - 2018
@@ -90,9 +90,9 @@ experiences:
         * Development of KPI analysis systems. Automation of data export from various KPI systems.
 
       stack:
-        -Python
-        -Oracle DB
-        -Pandas
+        - Python
+        - Oracle DB
+        - Pandas
 
     - role: Senior Engineer
       time: 2013 - 2017
@@ -102,11 +102,11 @@ experiences:
         - Development of reconciliation system (consistency check) Network elements (2G/3G controllers and Base Stations, MSC commutators).
 
       stack:
-        -PHP
-        -MySQL
-        -Bash/Shell
-        -Expect
-        -Bootstrap
+        - PHP
+        - MySQL
+        - Bash/Shell
+        - Expect
+        - Bootstrap
 
 skills:
     title: Skills &amp; Proficiency
