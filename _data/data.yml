@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Isa Nazhmudinov
-    tagline: PHP/Python  Developer
+    tagline: PHP  Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -40,10 +40,9 @@ sidebar:
 #        link:
 
 career-profile:
-    title: PHP/Python Developer
+    title: PHP Developer
     summary: |
-      I'm Software Engineer with proficiency in PHP, Python, Linux, LAMP, MySQL, Yii2, Networking and more..
-      Little experience of development mobile apps using Objective-C, Swift and Cordova. I have more than 10 years experience on IT.
+      I'm Software Engineer with proficiency in PHP, Python, Linux, MySQL and more..
 
 education:
     - degree: BSc in Computer Science
@@ -53,8 +52,15 @@ education:
         Computer Programming, Applied informatics in economics.
 
 experiences:
+    - role: PHP Backend Developer
+      time: 2019 - Present
+      company: Mail.Ru Group, Russia/Moscow
+      details: |
+        PHP developer at Youla project (classified)
+        - Development new features
+
     - role: Lead Engineer - PHP/Python
-      time: 2018 - Present
+      time: 2018 - 2019
       company: Nokia Solutions & Networks (NSN), Russia/Voronezh
       details: |
         * Automation configuration processes of network equipment and mobile network base stations, generating a configuration from source data.
