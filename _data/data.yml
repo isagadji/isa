@@ -58,8 +58,8 @@ experiences:
       details: |
         PHP developer at Youla project (classified)
         - Development new features
-      technologies:
-        - Symfony
+      stack:
+        - Silex
         - MongoDB
         - Docker
         - NoSQL
