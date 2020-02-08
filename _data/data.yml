@@ -97,9 +97,6 @@ skills:
       - name: PHP
         level: 80%
 
-      - name: Yii2
-        level: 60%
-
       - name: MySQL
         level: 90%
 
