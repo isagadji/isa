@@ -28,11 +28,10 @@
       {{ experience.details | markdownify }}
     </div><!--//details-->
     {% endif %}
-    Hello3
     {% if experience.stack %}
     <ul class="list-inline">
       {% for stack in experience.stack %}
-      1
+      <li class="list-inline-item"><span class="badge badge-primary badge-pill">{{ stack.name }}</span></li>
       {% endfor %}
     </ul>
     {% endif %}
@@ -42,4 +41,3 @@
 
 </section><!--//section-->
 {% endif %}
-<li class="list-inline-item"><span class="badge badge-primary badge-pill">{{ stack.name }}</span></li>
