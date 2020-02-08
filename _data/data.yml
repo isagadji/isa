@@ -58,11 +58,12 @@ experiences:
       details: |
         PHP developer at Youla project (classified)
         - Development new features
+
       stack:
-        - name: Silex
-        - name: MongoDB
-        - name: Docker
-        - name: NoSQL
+        - Silex
+        - MongoDB
+        - Docker
+        - NoSQL
 
     - role: Lead Engineer - PHP/Python
       time: 2018 - 2019
@@ -73,7 +74,14 @@ experiences:
           Profit: preparation time decrease 20 times (Before: preparation for the task takes several hours. Now 5-10 minutes).
         * Development of troubleshooting • automation system.
 
-          Stack: Linux, PHP, Yii2, Python, Bash, Expect etc.
+      stack:
+        -Linux
+        -PHP
+        -Yii2
+        -Python
+        -Bash
+        -Expect
+        -etc
 
     - role: Software Engineer
       time: 2017 - 2018
@@ -81,7 +89,10 @@ experiences:
       details: |
         * Development of KPI analysis systems. Automation of data export from various KPI systems.
 
-          Stack: Python, Oracle DB, Pandas.
+      stack:
+        -Python
+        -Oracle DB
+        -Pandas
 
     - role: Senior Engineer
       time: 2013 - 2017
@@ -90,7 +101,12 @@ experiences:
         - Development Accident monitoring system on GSM network. In company Beeline (VimpelCom).
         - Development of reconciliation system (consistency check) Network elements (2G/3G controllers and Base Stations, MSC commutators).
 
-        Stack: PHP, MySQL, MVC, Bash/Shell, Expect, Bootstrap.
+      stack:
+        -PHP
+        -MySQL
+        -Bash/Shell
+        -Expect
+        -Bootstrap
 
 skills:
     title: Skills &amp; Proficiency

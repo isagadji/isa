@@ -29,11 +29,9 @@
     </div><!--//details-->
     {% endif %}
     {% if experience.stack %}
-    <ul class="list-inline">
       {% for stack in experience.stack %}
-      <li class="list-inline-item"><span class="badge badge-primary badge-pill">{{ stack.name }}</span></li>
+        <span class="badge badge-primary badge-pill">{{ stack }}</span>
       {% endfor %}
-    </ul>
     {% endif %}
 
   </div><!--//item-->
