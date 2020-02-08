@@ -58,7 +58,11 @@ experiences:
       details: |
         PHP developer at Youla project (classified)
         - Development new features
-      technologies: [Symfony, MongoDB, Docker, NoSQL]
+      technologies:
+        - Symfony
+        - MongoDB
+        - Docker
+        - NoSQL
 
     - role: Lead Engineer - PHP/Python
       time: 2018 - 2019
