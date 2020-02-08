@@ -50,7 +50,6 @@ education:
       time: 2005 - 2010
       details: |
         Computer Programming, Applied informatics in economics.
-        - symfony
 
 experiences:
     - role: PHP Backend Developer
@@ -59,6 +58,11 @@ experiences:
       details: |
         PHP developer at Youla project (classified)
         - Development new features
+      technologies: |
+        - symfony
+        - mongodb
+        - docker
+        - NoSQL
 
     - role: Lead Engineer - PHP/Python
       time: 2018 - 2019
