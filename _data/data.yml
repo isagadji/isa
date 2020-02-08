@@ -59,10 +59,10 @@ experiences:
         PHP developer at Youla project (classified)
         - Development new features
       stack:
-        - Silex
-        - MongoDB
-        - Docker
-        - NoSQL
+        - name: Silex
+        - name: MongoDB
+        - name: Docker
+        - name: NoSQL
 
     - role: Lead Engineer - PHP/Python
       time: 2018 - 2019
