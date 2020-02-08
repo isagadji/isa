@@ -50,6 +50,7 @@ education:
       time: 2005 - 2010
       details: |
         Computer Programming, Applied informatics in economics.
+        - symfony
 
 experiences:
     - role: PHP Backend Developer
