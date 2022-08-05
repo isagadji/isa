@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Isa Nazhmudinov
-    tagline: PHP  Developer
+    tagline: Backend Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -40,9 +40,9 @@ sidebar:
 #        link:
 
 career-profile:
-    title: PHP Developer
+    title: PHP/Go Developer
     summary: |
-      I'm Software Engineer with proficiency in PHP, Python, Linux, MySQL and more..
+      I'm Backend Engineer with proficiency in PHP, Go, Linux and more..
 
 education:
     - degree: BSc in Computer Science
@@ -52,21 +52,24 @@ education:
         Computer Programming, Applied informatics in economics.
 
 experiences:
-    - role: PHP Backend Developer
-      time: 2019 - Present
-      company: Mail.Ru Group, Russia/Moscow
+    - role: Backend Developer
+      time: 09.2019 - Present
+      company: VK (ex. Mail.Ru Group), Russia/Moscow
       details: |
-        PHP developer at Youla project (classified)
-        - Development new features
+        PHP/Go Engineer at Youla project (classified). Platform team
+        - Development new features and microservices
 
       stack:
+        - GoLang
+        - PHP
         - Silex
-        - MongoDB
+        - Microservices
         - Docker
         - NoSQL
+        - etc..
 
     - role: Lead Engineer - PHP/Python
-      time: 2018 - 2019
+      time: 11.2018 - 08.2019
       company: Nokia Solutions & Networks (NSN), Russia/Voronezh
       details: |
         * Automation configuration processes of network equipment and mobile network base stations, generating a configuration from source data.
@@ -84,7 +87,7 @@ experiences:
         - etc..
 
     - role: Software Engineer
-      time: 2017 - 2018
+      time: 05.2017 - 10.2018
       company: Nokia Solutions & Networks (NSN), Russia/Makhachkala
       details: |
         * Development of KPI analysis systems. Automation of data export from various KPI systems.
@@ -95,7 +98,7 @@ experiences:
         - Pandas
 
     - role: Senior Engineer
-      time: 2013 - 2017
+      time: 10.2013 - 04. 2017
       company: Beeline/Vimpelcom, Russia/Makhachkala
       details: |
         - Development Accident monitoring system on GSM network. In company Beeline (VimpelCom).
@@ -103,16 +106,19 @@ experiences:
 
       stack:
         - PHP
+        - Bootstrap
         - MySQL
         - Bash/Shell
         - Expect
-        - Bootstrap
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
       - name: Linux
+        level: 80%
+
+      - name: GoLang
         level: 80%
 
       - name: PHP
