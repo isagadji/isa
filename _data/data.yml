@@ -101,7 +101,7 @@ experiences:
         - Expect
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills # &amp; Proficiency
 
     toolset:
       - name: Linux
