@@ -55,7 +55,7 @@ experiences:
       details: |
         PHP/Go Engineer at Youla project (classified youla.ru). Platform team.
         - Development new features and microservices
-        - Helping split the PHP monolith into Go microservices.
+        - Splitting the PHP monolith into Go microservices.
 
       stack:
         - GoLang
