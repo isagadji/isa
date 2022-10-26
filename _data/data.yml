@@ -50,7 +50,7 @@ education:
 
 experiences:
     - role: Backend Developer
-      time: 09.2019 - Present
+      time: 09.2019 - Present (more 3 yrs)
       company: VK (ex. Mail.Ru Group), Russia/Moscow
       details: |
         PHP/Go Engineer at Youla project (classified youla.ru). Platform team.
@@ -68,7 +68,7 @@ experiences:
         - GraphQL
 
     - role: Software Engineer - PHP/Python
-      time: 05.2017 - 08.2019
+      time: 05.2017 - 08.2019 (2 yrs 3 mos)
       company: Nokia Solutions & Networks (NSN), Russia/Voronezh
       details: |
         - Development of an automation system for integrating/reintegrating mobile network base stations, generating a configuration from source data.
@@ -87,7 +87,7 @@ experiences:
         - Pandas
 
     - role: Senior Engineer - PHP
-      time: 10.2013 - 04. 2017
+      time: 10.2013 - 04.2017 (3 yrs 8 mos)
       company: Beeline/Vimpelcom, Russia/Makhachkala
       details: |
         - Development Accident monitoring system on GSM network. In company VimpelCom (Beeline).
