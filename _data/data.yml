@@ -53,8 +53,9 @@ experiences:
       time: 09.2019 - Present
       company: VK (ex. Mail.Ru Group), Russia/Moscow
       details: |
-        PHP/Go Engineer at Youla project (classified). Platform team
+        PHP/Go Engineer at Youla project (classified youla.ru). Platform team.
         - Development new features and microservices
+        - Helping split the PHP monolith into Go microservices.
 
       stack:
         - GoLang
@@ -63,6 +64,8 @@ experiences:
         - Microservices
         - Docker
         - NoSQL
+        - REST
+        - GraphQL
 
     - role: Software Engineer - PHP/Python
       time: 05.2017 - 08.2019
@@ -117,6 +120,8 @@ skills:
       - name: MongoDB
       - name: Microservices
       - name: Docker
+      - name: REST
+      - name: GraphQL
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
