@@ -32,15 +32,12 @@ sidebar:
       - idiom: English
         level: Intermed
 
-      - idiom: Avar
-        level: Native
-
     interests:
 #      - item: Coding
 #        link:
 
 career-profile:
-    title: PHP/Go Developer
+    title: Backend Engineer
     summary: |
       I'm Backend Engineer with proficiency in PHP, Go, Linux and more..
 
