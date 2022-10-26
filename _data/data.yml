@@ -66,16 +66,15 @@ experiences:
         - Microservices
         - Docker
         - NoSQL
-        - etc..
 
-    - role: Lead Engineer - PHP/Python
-      time: 11.2018 - 08.2019
+    - role: Software Engineer - PHP/Python
+      time: 05.2017 - 08.2019
       company: Nokia Solutions & Networks (NSN), Russia/Voronezh
       details: |
-        * Automation configuration processes of network equipment and mobile network base stations, generating a configuration from source data.
-
-          Profit: preparation time decrease 20 times (Before: preparation for the task takes several hours. Now 5-10 minutes).
-        * Development of troubleshooting • automation system.
+        - Development of an automation system for integrating/reintegrating mobile network base stations, generating a configuration from source data.
+        - Development of troubleshooting automation system.
+        - Automation of network equipment configuration processes.
+        - Development of KPI collection and analysis systems. Automation of data export from various KPI systems.
 
       stack:
         - Linux
@@ -84,29 +83,19 @@ experiences:
         - Python
         - Bash
         - Expect
-        - etc..
-
-    - role: Software Engineer
-      time: 05.2017 - 10.2018
-      company: Nokia Solutions & Networks (NSN), Russia/Makhachkala
-      details: |
-        * Development of KPI analysis systems. Automation of data export from various KPI systems.
-
-      stack:
-        - Python
         - Oracle DB
         - Pandas
 
-    - role: Senior Engineer
+    - role: Senior Engineer - PHP
       time: 10.2013 - 04. 2017
       company: Beeline/Vimpelcom, Russia/Makhachkala
       details: |
-        - Development Accident monitoring system on GSM network. In company Beeline (VimpelCom).
+        - Development Accident monitoring system on GSM network. In company VimpelCom (Beeline).
         - Development of reconciliation system (consistency check) Network elements (2G/3G controllers and Base Stations, MSC commutators).
 
       stack:
         - PHP
-        - Bootstrap
+        - Linux
         - MySQL
         - Bash/Shell
         - Expect
@@ -116,23 +105,21 @@ skills:
 
     toolset:
       - name: Linux
-        level: 80%
+#        level: 80%
 
       - name: GoLang
-        level: 80%
+#        level: 80%
 
       - name: PHP
-        level: 80%
+#        level: 80%
 
       - name: MySQL
-        level: 90%
+#        level: 90%
 
-      - name: Python
-        level: 50%
-
-      - name: Javascript & jQuery
-        level: 45%
-
+      - name: NoSQL
+      - name: MongoDB
+      - name: Microservices
+      - name: Docker
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
